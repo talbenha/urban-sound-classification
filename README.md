@@ -1,2 +1,2 @@
 # urban-sound-classification
-Full PyTorch implementation of urban sound classification project
+Full PyTorch implementation (provided in Google Colab notebook) of urban sound classification project
